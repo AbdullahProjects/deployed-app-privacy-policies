@@ -1,0 +1,70 @@
+# Privacy Policy — voice_coach
+
+Effective date: May 17, 2026
+
+Thank you for using voice_coach (the “App”). This Privacy Policy explains how we collect, use, disclose, and protect information when you use the App. Please read it carefully. By using the App you agree to the collection and use of information in accordance with this policy.
+
+## 1. Information we collect
+
+- Information you provide directly:
+  - Account information (for example, email, display name) when you register or update your profile.
+  - Profile photo URL if you choose to upload or set a profile image.
+  - Any other information you enter into profile fields, forms, or support requests.
+
+- Automatically collected information:
+  - Usage data and diagnostics (for example, app usage, crash reports) collected to improve the App.
+  - Device identifiers and basic device information (model, OS version) to help diagnose issues.
+
+- Media and device permissions:
+  - If you use the profile picture feature the App may request access to your camera and/or photo library. Photos you pick or take may be uploaded to third-party image hosting (see Section 4).
+
+## 2. How we use your information
+
+- To provide and maintain the App, including saving your profile and settings.
+- To process image uploads and show your profile photo.
+- To communicate with you (for example, transactional messages or support replies).
+- To detect, investigate, and prevent security or technical issues.
+
+## 3. Sharing and disclosure
+
+- Service providers and third-party services: we may share information with third-party services that perform services on our behalf, such as:
+  - Firebase (Authentication, Cloud Firestore) for user accounts and data storage.
+  - Cloudinary for image uploads and hosting.
+  - Any analytics/crash-reporting providers used in the App.
+  These third parties will only process the data as necessary to provide their services and in accordance with their own privacy policies.
+
+- Legal: we may disclose information when required by law or to protect rights, property, or safety.
+
+## 4. Image uploads and Cloudinary
+
+If you choose to upload a profile picture, the image file may be uploaded to Cloudinary (or another configured image-hosting provider). The image upload is initiated from the device; the App receives a hosted image URL and stores that URL in the App's user record inside Firestore. We recommend not uploading images that contain sensitive personal information unless you consent to storing them.
+
+## 5. Security
+
+We take reasonable technical and organizational measures to protect personal data. However, no method of transmission or storage is 100% secure. We cannot guarantee absolute security.
+
+## 6. Data retention
+
+We keep personal data only as long as necessary to provide the App and for legitimate business purposes (for example, to comply with legal obligations or resolve disputes). If you request account deletion, we will remove your data from live systems and retention backups according to our data retention schedule.
+
+## 7. Your rights and choices
+
+- Access and portability: you can request a copy of the personal data we hold about you.
+- Correction and deletion: you can request correction or deletion of your personal data. To request deletion or export, contact us (see Section 9).
+- Camera and photo permissions: you can revoke camera and photo permissions through your device settings. Revoking these permissions will prevent the App from taking pictures or selecting images from your library.
+
+## 8. Children's privacy
+
+The App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, contact us and we will take reasonable steps to delete that information.
+
+## 9. Contact
+
+For questions or requests (data export, deletion, corrections), contact: [your-contact@example.com]
+
+Replace the email above with a working contact address for your organisation.
+
+## 10. Changes to this policy
+
+We may update this Privacy Policy from time to time. When we do, we will update the Effective Date at the top of the policy. Continued use of the App after changes indicates acceptance of the revised policy.
+
+
